@@ -1,6 +1,7 @@
 # HousePricePrediction
 
 Đây là dự án của bộ môn Thực hành Nhập môn Công Nghệ Thông Tin.
+
 Thành viên:
 + Huỳnh Hoàng Yến
 + Ngô Nguyễn Đông Quân
